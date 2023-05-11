@@ -1,7 +1,7 @@
 description: Sample and hold circuit for photomultiplier pulse signal processig
 github_branch: PCRD06A
 github_repo: PCRD06
-github_url: https://github.com/mlab-modules/PCRD06
+github_url: https://github.com/openfnord/PCRD06
 homepage: false
 images:
 - doc/img/PCRD06A_big_top.jpg
@@ -17,8 +17,5 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/ibom/PCRD06A-ibom.html
 mod_scheme: doc/gen/PCRD06A-schematic.pdf
-tags:
-- photomultiplier
-- sipm
-- analog-memory
+tags: []
 title: PCRD06
